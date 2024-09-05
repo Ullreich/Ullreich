@@ -13,7 +13,7 @@ Things I like (in no particular order):
 * Esolangs
 * Open Source
 
-Besides C, CPP, and Python I also have experience with Julia, Matlab, Maplesoft, Java, Javascript, HTML, and I really want to learn Rust (and perhaps Zig)
+Besides C, CPP, and Python I also have experience with Julia, Matlab, Maplesoft, Java, Javascript, HTML, Perl, and I really want to learn Rust (and perhaps Zig)
 <!--
 **Ullreich/Ullreich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
